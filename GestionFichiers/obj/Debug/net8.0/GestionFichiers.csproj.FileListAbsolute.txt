@@ -1,0 +1,14 @@
+C:\Projects\GestionFichiers\bin\Debug\net8.0\GestionFichiers.exe
+C:\Projects\GestionFichiers\bin\Debug\net8.0\GestionFichiers.deps.json
+C:\Projects\GestionFichiers\bin\Debug\net8.0\GestionFichiers.runtimeconfig.json
+C:\Projects\GestionFichiers\bin\Debug\net8.0\GestionFichiers.dll
+C:\Projects\GestionFichiers\bin\Debug\net8.0\GestionFichiers.pdb
+C:\Projects\GestionFichiers\obj\Debug\net8.0\GestionFichiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\GestionFichiers\obj\Debug\net8.0\GestionFichiers.AssemblyInfoInputs.cache
+C:\Projects\GestionFichiers\obj\Debug\net8.0\GestionFichiers.AssemblyInfo.cs
+C:\Projects\GestionFichiers\obj\Debug\net8.0\GestionFichiers.csproj.CoreCompileInputs.cache
+C:\Projects\GestionFichiers\obj\Debug\net8.0\GestionFichiers.dll
+C:\Projects\GestionFichiers\obj\Debug\net8.0\refint\GestionFichiers.dll
+C:\Projects\GestionFichiers\obj\Debug\net8.0\GestionFichiers.pdb
+C:\Projects\GestionFichiers\obj\Debug\net8.0\GestionFichiers.genruntimeconfig.cache
+C:\Projects\GestionFichiers\obj\Debug\net8.0\ref\GestionFichiers.dll
